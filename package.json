@@ -1,6 +1,6 @@
 {
   "name": "jigsaw-cli-2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "bin": {
     "jigsawstack-cli": "./bin/jigsawstack-cli.js"
