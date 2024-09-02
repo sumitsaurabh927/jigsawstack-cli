@@ -1,0 +1,19 @@
+{
+  "name": "jigsaw-cli-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "jigsawstack-cli": "./bin/jigsawstack-cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sumit Saurabh",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "create-next-app": "^14.2.7"
+  }
+}
