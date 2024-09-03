@@ -11,7 +11,7 @@ npm install -g jigsaw-cli-2
 ```
 > This command installs the package globally
 
-And then, execute the following command to create a new package:
+And then, execute the following command to create a new project:
 
 ```bash
 jigsawstack-cli new-app 
