@@ -18,3 +18,5 @@ jigsawstack-cli new-app
 ```
 
 > Here, substitute `new-app` with your own project name.
+
+You just need to add your JigsawStack API key to the `.env.local` file and you're ready to go!
